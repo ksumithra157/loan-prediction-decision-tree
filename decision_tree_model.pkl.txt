@@ -1,0 +1,8 @@
+
+This file can be used to load the trained model and make predictions without retraining.
+
+## Author
+
+Kasapogu Sumithra  
+B.Tech Computer Science  
+Aspiring Data Analyst
